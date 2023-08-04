@@ -1,2 +1,2 @@
 # ObstacleAssault
-https://www.udemy.com/course/unrealcourse/
+Project made following course https://www.udemy.com/course/unrealcourse/
